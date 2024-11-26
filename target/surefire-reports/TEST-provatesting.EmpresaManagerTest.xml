@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="23"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\miguel.9272\eclipse-workspace\provatest\target\test-classes;C:\Users\miguel.9272\eclipse-workspace\provatest\target\classes;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\miguel.9272\Desktop\provaFinalTesting\target\test-classes;C:\Users\miguel.9272\Desktop\provaFinalTesting\target\classes;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="C:\Users\miguel.9272\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\miguel.9272\AppData\Local\Temp\surefire2947942655841790102\surefirebooter-20241126200141200_3.jar C:\Users\miguel.9272\AppData\Local\Temp\surefire2947942655841790102 2024-11-26T20-01-41_016-jvmRun1 surefire-20241126200141200_1tmp surefire_0-20241126200141200_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\miguel.9272\AppData\Local\Temp\surefire5152324822278863173\surefirebooter-20241126202957169_3.jar C:\Users\miguel.9272\AppData\Local\Temp\surefire5152324822278863173 2024-11-26T20-29-57_007-jvmRun1 surefire-20241126202957169_1tmp surefire_0-20241126202957169_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\miguel.9272\eclipse-workspace\provatest\target\test-classes;C:\Users\miguel.9272\eclipse-workspace\provatest\target\classes;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\miguel.9272\Desktop\provaFinalTesting\target\test-classes;C:\Users\miguel.9272\Desktop\provaFinalTesting\target\classes;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.3\junit-jupiter-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.3\junit-jupiter-params-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\miguel.9272\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\miguel.9272"/>
     <property name="user.language" value="pt"/>
@@ -25,13 +25,13 @@
     <property name="java.version.date" value="2024-10-15"/>
     <property name="java.home" value="C:\Users\miguel.9272\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.1.v20241024-1700\jre"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\miguel.9272\eclipse-workspace\provatest"/>
+    <property name="basedir" value="C:\Users\miguel.9272\Desktop\provaFinalTesting"/>
     <property name="style.color" value="always"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\miguel.9272\AppData\Local\Temp\surefire2947942655841790102\surefirebooter-20241126200141200_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\miguel.9272\AppData\Local\Temp\surefire5152324822278863173\surefirebooter-20241126202957169_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="23.0.1+11"/>
@@ -47,7 +47,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\MIGUEL~1.927\AppData\Local\Temp\"/>
     <property name="java.version" value="23.0.1"/>
-    <property name="user.dir" value="C:\Users\miguel.9272\eclipse-workspace\provatest"/>
+    <property name="user.dir" value="C:\Users\miguel.9272\Desktop\provaFinalTesting"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="testCreateEmpresa" classname="provatesting.EmpresaManagerTest" time="0.025">
+  <testcase name="testCreateEmpresa" classname="provatesting.EmpresaManagerTest" time="0.024">
     <system-out><![CDATA[Empresa creada: Empresa Test
 ]]></system-out>
   </testcase>
@@ -74,7 +74,7 @@ Empresa actualizada: Empresa Nueva
 Empresa creada: Empresa Dos
 ]]></system-out>
   </testcase>
-  <testcase name="testDeleteEmpresa" classname="provatesting.EmpresaManagerTest" time="0.002">
+  <testcase name="testDeleteEmpresa" classname="provatesting.EmpresaManagerTest" time="0.003">
     <system-out><![CDATA[Empresa creada: Empresa Eliminar
 Empresa eliminada: Empresa Eliminar
 ]]></system-out>

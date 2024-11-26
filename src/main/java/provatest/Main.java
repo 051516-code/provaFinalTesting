@@ -61,7 +61,7 @@ public class Main {
         }
 
         // Actualizar empresa
-        empresaManager.updateEmpresa(1, "Empresa A Actualizada", "nuevoemail@a.com");
+        empresaManager.updateEmpresa(1, "", "nuevoemail@a.com");
 
         // Buscar empresa por ID
         Empresa foundEmpresa = empresaManager.readEmpresa(1);
