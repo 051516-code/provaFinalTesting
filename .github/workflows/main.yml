@@ -1,5 +1,6 @@
-name: Java CI
+name: Maven Build and Test
 
+# Se ejecuta en cada push y pull request al branch `main`
 on:
   push:
     branches:
@@ -13,21 +14,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Paso 1: Chequear el repositorio
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # 1. Check out el código del repositorio
+      - name: Check out repository
+        uses: actions/checkout@v3
 
-    # Paso 2: Configurar Java 11
-    - name: Set up JDK 11
-      uses: actions/setup-java@v3
-      with:
-        java-version: '11'
-        distribution: 'temurin' # Alternativa: adopt, zulu, etc.
+      # 2. Configura Java (por ejemplo, OpenJDK 11)
+      - name: Set up JDK 11
+        uses: actions/setup-java@v3
+        with:
+          java-version: '11'
 
-    # Paso 3: Construir y probar el proyecto usando Maven
-    - name: Build with Maven
-      run: mvn install
+      # 3. Configura Maven
+      - name: Set up Maven
+        uses: actions/setup-maven@v2
+        with:
+          maven-version: '3.8.1'
 
-    # Paso 4: Ejecutar pruebas
-    - name: Run tests
-      run: mvn test
+      # 4. Ejecuta Maven para compilar el proyecto y correr las pruebas
+      - name: Build and Test with Maven
+        run: mvn clean install
+
+      # 5. (Opcional) Si tienes notificaciones o despliegues, puedes agregar aquí los pasos adicionales.
